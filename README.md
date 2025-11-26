@@ -63,7 +63,7 @@ Passionate full-stack and mobile developer focused on building scalable, user-ce
 
 ---
 
-### 📚 [Exam Ready App](https://github.com/Vkchowdary05/exam-ready-app)
+### 📚 [Exam Ready App](https://github.com/Vkchowdary05/exam-ready-13)
 **Production-ready exam preparation platform with modern architecture**
 - 🔥 Robust Firebase integration with centralized service pattern
 - 📱 Fully responsive design across mobile, tablet, and desktop
