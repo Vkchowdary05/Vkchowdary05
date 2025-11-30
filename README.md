@@ -12,11 +12,10 @@
 
 ---
 
----
-
 ## 🚀 About Me
 
-Passionate full-stack and mobile developer focused on building scalable, user-centric applications. I specialize in creating responsive interfaces and robust backend systems, with a strong foundation in modern development practices. Currently seeking opportunities to contribute to impactful projects while continuously expanding my technical expertise.
+Passionate full-stack and mobile developer focused on building scalable, user-centric applications.  
+I specialize in creating responsive interfaces and robust backend systems with strong expertise in Flutter, Node.js, Firebase, MySQL, and cloud-native architectures.
 
 ---
 
@@ -49,55 +48,158 @@ Passionate full-stack and mobile developer focused on building scalable, user-ce
 
 ---
 
-## 🎯 Featured Projects
-
-### 📱 [Grievance Redressal System](https://github.com/Vkchowdary05/grievance-redressal-system)
-**Full-stack mobile application for citizen grievance management**
-- 🔐 Role-based authentication (Citizens & Officers)
-- 🤖 AI-powered spam detection using Gemini API
-- 📊 Real-time status tracking and notifications
-- 💾 Offline-first architecture with Supabase sync
-- 🎨 Modern Flutter UI with BLoC state management
-
-**Tech Stack:** `Flutter` `Dart` `Supabase` `BLoC` `Gemini API`
+# 🌟 Featured Projects  
+(All projects combined — full details preserved)
 
 ---
 
-### 📚 [Exam Ready App](https://github.com/Vkchowdary05/exam-ready-13)
-**Production-ready exam preparation platform with modern architecture**
-- 🔥 Robust Firebase integration with centralized service pattern
-- 📱 Fully responsive design across mobile, tablet, and desktop
-- ✨ Hardware-accelerated 60fps animations and micro-interactions
-- ♿ Accessibility support with screen reader compatibility
-- 🎨 Modern UI with skeleton loading and smooth transitions
-- 🧪 Comprehensive test coverage and error handling
-
-**Tech Stack:** `Flutter` `Dart` `Firebase` `BLoC` `Responsive Design`
-
-**Key Achievements:**
-- 30% reduction in memory usage through singleton Firebase pattern
-- Zero layout overflow errors with adaptive grid systems
-- 7% improvement in code quality metrics
+# 🛒 **Marketplace Backend (Node.js + MySQL + JWT + Sequelize)**  
+A production-ready enterprise marketplace backend with advanced multi-role architecture.
 
 ---
 
-### 📚 [Library Management System](https://github.com/Vkchowdary05/library-manager)
-**Comprehensive book inventory and borrower tracking system**
-- 📖 Complete book catalog management
-- 👥 Borrower checkout/return workflow
-- 💰 Automated fine calculation system
-- 🔍 Advanced search and filtering
+## ⭐ Features
 
-**Tech Stack:** `Python` `MySQL` `CLI Interface`
+### **Core Functionality**
+- Multi-role authentication (Seller, Customer, Salesman, Delivery Person)  
+- JWT-based authorization & Role-Based Access Control  
+- Full CRUD operations for all entities  
+- Transaction management for data consistency  
+- Real-time order tracking system  
+- Comprehensive Swagger documentation  
+- Centralized production-grade error handling  
 
 ---
 
-### 🌾 [Node.js Farm Project](https://github.com/Vkchowdary05/node-farm-project)
-**Pure Node.js web server with dynamic content generation**
-- 🚀 Built without external frameworks
-- 📄 Template-based page rendering
-- 📊 JSON data source integration
-- 🎓 Demonstrates core Node.js concepts
+## 🧩 Modules
+
+### **Seller Module**
+- Dashboard with order management  
+- Accept/reject orders (supports partial acceptance)  
+- Product catalog management  
+- Order status updates  
+- Delivery assignment  
+- Insights & analytics  
+
+### **Delivery Person Module**
+- View assigned orders  
+- Update delivery status  
+- Upload proof of delivery  
+- Route optimization  
+- Daily performance tracking  
+
+### **Salesman Module**
+- Route & beat management  
+- Attendance marking  
+- Store visits logging  
+- Secondary sales order creation  
+- Performance metrics  
+
+### **Customer Module**
+- Location-based seller search  
+- Multi-product order submission  
+- Live order tracking  
+- Raise complaints  
+- View past orders  
+
+---
+
+### 🤖 **AI-Powered Features**
+- Seller recommendation system (location + rating + availability)  
+- Delivery route optimization (Nearest Neighbor Algorithm)  
+- Complaint categorization (keyword-based AI classifier)  
+
+---
+
+## 🛠 Tech Stack
+- **Runtime:** Node.js (v14+)  
+- **Framework:** Express.js  
+- **Database:** MySQL (v8+)  
+- **ORM:** Sequelize  
+- **Auth:** JWT  
+- **Security:** bcryptjs, helmet, cors  
+- **Docs:** Swagger  
+- **Validation:** express-validator  
+
+---
+
+## 📁 Project Structure
+
+
+marketplace-backend/
+├── src/
+│ ├── config/
+│ ├── models/
+│ ├── middlewares/
+│ ├── controllers/
+│ ├── services/
+│ ├── routes/
+│ ├── utils/
+│ └── app.js
+├── migrations/
+├── seeders/
+├── package.json
+├── server.js
+└── README.md
+
+---
+
+# 📱 **Grievance Redressal System (Flutter + Supabase + Gemini AI)**  
+Full-stack mobile app designed for citizen grievance management.
+
+### 🔥 Features  
+- Role-based login (Citizen & Officer)  
+- AI-powered spam detection using Gemini API  
+- Real-time status tracking with push notifications  
+- Offline-first architecture using Supabase  
+- Modern UI with BLoC state management  
+
+**Tech Stack:** `Flutter` `Dart` `Supabase` `Gemini API` `BLoC`
+
+---
+
+# 📚 **Exam Ready App (Flutter + Firebase)**  
+A production-ready exam preparation platform built for scale.
+
+### 🚀 Key Features  
+- Centralized Firebase service architecture  
+- Responsive layout for mobile, tablet & desktop  
+- Hardware-accelerated animations  
+- Skeleton loading, shimmer effects, smooth transitions  
+- Full accessibility support  
+- Comprehensive test coverage  
+
+### 📌 Achievements  
+- Reduced memory usage by **30%**  
+- Zero layout overflow issues  
+- Improved code quality metrics by **7%**
+
+**Tech Stack:** `Flutter` `Dart` `Firebase`
+
+---
+
+# 📘 **Library Management System (Python + MySQL)**  
+A CLI-based library system that supports:
+
+### Features  
+- Book catalog management  
+- Borrower tracking  
+- Automated fine calculation  
+- Advanced search and filtering  
+
+**Tech Stack:** `Python` `MySQL`
+
+---
+
+# 🌾 **Node.js Farm Project (Pure Node.js Web Server)**  
+
+A demonstration of low-level Node.js server fundamentals.
+
+### Features  
+- Dynamic template rendering  
+- Pure Node.js (no frameworks)  
+- JSON-based data management  
+- Routing, templating, and server logic implemented manually  
 
 **Tech Stack:** `Node.js` `HTML` `JSON`
 
@@ -118,16 +220,12 @@ Passionate full-stack and mobile developer focused on building scalable, user-ce
 
 ## 🤝 Let's Connect
 
-I'm always interested in collaborating on innovative projects and discussing new technologies. Feel free to reach out!
-
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-papasanikarthik@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:papasanikarthik@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartheek-chowdhary-914b6923b)
 
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
