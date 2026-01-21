@@ -1,232 +1,232 @@
+# 👋 Hey, I'm Kartheek — Full-Stack Developer Building Real Products
+
 <div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kartheek-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartheek-chowdhary-914b6923b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:papasanikarthik@gmail.com)
 
-# 👋 Hi, I'm VK Chowdary
-
-### Full-Stack & Mobile Developer
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:papasanikarthik@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartheek-chowdhary-914b6923b)
-[![Profile Views](https://komarev.com/ghpvc/?username=Vkchowdary05&color=blueviolet&style=flat-square)](https://github.com/Vkchowdary05)
+**Building production-ready apps • 4 live products • Full-stack specialist • Startup enthusiast**
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 What I Build
 
-Passionate full-stack and mobile developer focused on building scalable, user-centric applications.  
-I specialize in creating responsive interfaces and robust backend systems with strong expertise in Flutter, Node.js, Firebase, MySQL, and cloud-native architectures.
+I don't just code — I ship. Every project here is **production-ready**, **deployed live**, and solving **real problems**. I move fast, iterate quickly, and focus on user impact.
 
----
+### 🎯 Live Products
 
-## 💼 Technical Expertise
+<table>
+<tr>
+<td width="50%">
 
-### **Mobile Development**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![BLoC](https://img.shields.io/badge/BLoC-4A4A4A?style=flat-square&logo=flutter&logoColor=white)
+#### 📚 [Exam Ready](https://exam-ready-15-jvzs-hrk28xuy1-venakata-kartheeks-projects.vercel.app/)
+**AI-Powered Exam Prep Platform**
 
-### **Frontend Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- **🔥 Used by**: Students across multiple colleges
+- **🤖 AI-First**: OCR + Groq LLM for topic extraction
+- **📊 Smart**: Topic frequency analysis with heat mapping
+- **🎮 Gamified**: Credits, badges, leaderboards
 
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+**Stack**: Next.js 14, TypeScript, MongoDB, Tesseract.js, Groq API
 
-### **Databases & Cloud**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+[🌐 Live Demo](https://exam-ready-15-jvzs-hrk28xuy1-venakata-kartheeks-projects.vercel.app/) • [📱 Mobile App (v1.0.0)](https://github.com/Vkchowdary05/exam-ready-13/releases/tag/v1.0.0)
 
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+</td>
+<td width="50%">
 
----
+#### 💪 [Gym Remo](https://gym-remo.vercel.app/)
+**Intelligent Fitness Tracker**
 
-# 🌟 Featured Projects  
-(All projects combined — full details preserved)
+- **🧠 Smart Analytics**: Muscle-based progress tracking
+- **📈 Real Insights**: Overtraining detection, balance warnings
+- **🎨 5 Themes**: From relaxing to hardcore
+- **📱 Mobile-First**: Fully responsive design
 
----
+**Stack**: Next.js 15, TypeScript, Firebase, Tailwind CSS
 
-# 🛒 **Marketplace Backend (Node.js + MySQL + JWT + Sequelize)**  
-A production-ready enterprise marketplace backend with advanced multi-role architecture.
+[🌐 Live Demo](https://gym-remo.vercel.app/)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-## ⭐ Features
+#### 📋 Quote Builder
+**Professional B2B Quotation System**
 
-### **Core Functionality**
-- Multi-role authentication (Seller, Customer, Salesman, Delivery Person)  
-- JWT-based authorization & Role-Based Access Control  
-- Full CRUD operations for all entities  
-- Transaction management for data consistency  
-- Real-time order tracking system  
-- Comprehensive Swagger documentation  
-- Centralized production-grade error handling  
+- **⚡ Fast**: Real-time calculations
+- **💼 Professional**: Print-ready invoices
+- **🔄 Full CRUD**: Complete quote management
+- **📱 Cross-Platform**: Flutter + Node.js
 
----
+**Stack**: Flutter 3.24, BLoC, Node.js, Express
 
-## 🧩 Modules
+[📦 Backend (v1.0.0)](https://github.com/Vkchowdary05/quote-builder-backend/releases/tag/v1.0.0)
 
-### **Seller Module**
-- Dashboard with order management  
-- Accept/reject orders (supports partial acceptance)  
-- Product catalog management  
-- Order status updates  
-- Delivery assignment  
-- Insights & analytics  
+</td>
+<td width="50%">
 
-### **Delivery Person Module**
-- View assigned orders  
-- Update delivery status  
-- Upload proof of delivery  
-- Route optimization  
-- Daily performance tracking  
+#### 🌐 [Portfolio](https://kartheek-portfolio.vercel.app/)
+**Interactive Developer Portfolio**
 
-### **Salesman Module**
-- Route & beat management  
-- Attendance marking  
-- Store visits logging  
-- Secondary sales order creation  
-- Performance metrics  
+- **🎨 Modern UI**: Smooth animations
+- **📱 Responsive**: Works everywhere
+- **⚡ Fast**: Optimized performance
+- **🎯 Conversion-focused**: Clear CTAs
 
-### **Customer Module**
-- Location-based seller search  
-- Multi-product order submission  
-- Live order tracking  
-- Raise complaints  
-- View past orders  
+**Stack**: Next.js, TypeScript, Tailwind CSS
+
+[🌐 Live Site](https://kartheek-portfolio.vercel.app/)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🤖 **AI-Powered Features**
-- Seller recommendation system (location + rating + availability)  
-- Delivery route optimization (Nearest Neighbor Algorithm)  
-- Complaint categorization (keyword-based AI classifier)  
+## 💻 Technical Arsenal
+
+### Languages & Frameworks
+```
+Frontend:  Next.js 14/15 • React • Flutter • TypeScript • JavaScript
+Backend:   Node.js • Express.js • MongoDB • Firebase • Firestore
+Mobile:    Flutter (Android/iOS/Web) • React Native Ready
+AI/ML:     Groq API • Tesseract.js • Google ML Kit
+```
+
+### Startup-Essential Skills
+- **🚢 Shipping Fast**: 4 products deployed in production
+- **🎨 Full-Stack**: Own entire features from DB to UI
+- **🤖 AI Integration**: Real LLM implementation, not just API calls
+- **☁️ Cloud Native**: Vercel, Render, Firebase, MongoDB Atlas
+- **📱 Multi-Platform**: Web, Android, iOS with single codebase
+- **🔐 Production Security**: JWT, bcrypt, rate limiting, input validation
+- **📊 Real Analytics**: Topic analysis, progress tracking, user insights
+
+### Tools I Use Daily
+![](https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,mongodb,firebase,flutter,tailwind,git,vercel)
 
 ---
 
-## 🛠 Tech Stack
-- **Runtime:** Node.js (v14+)  
-- **Framework:** Express.js  
-- **Database:** MySQL (v8+)  
-- **ORM:** Sequelize  
-- **Auth:** JWT  
-- **Security:** bcryptjs, helmet, cors  
-- **Docs:** Swagger  
-- **Validation:** express-validator  
+## 🎯 Why Hire Me for Your Startup?
+
+### ✅ I Move Fast
+- **4 production apps** shipped independently
+- **Full features**, not MVPs — ready for real users
+- **Deployed live** with CI/CD, monitoring, and scaling
+
+### ✅ I Own Problems End-to-End
+- **Design to deployment**: I don't need hand-holding
+- **Database to UI**: Full-stack means actually full-stack
+- **User experience first**: Features that users actually want
+
+### ✅ I Build for Scale
+- **MongoDB aggregation pipelines** for complex queries
+- **Rate limiting** and **security** baked in from day one
+- **Responsive design** that works on any device
+- **Clean architecture** that teams can maintain
+
+### ✅ I Learn Extremely Fast
+- **New tech?** Integrated Groq LLM in 2 days
+- **OCR needed?** Implemented Tesseract.js in production
+- **3D graphics?** Shipped Three.js landing page
+- **Mobile app?** Built Flutter app with BLoC architecture
 
 ---
 
-## 📁 Project Structure
+## 🏗️ Recent Wins
 
-
-marketplace-backend/
-├── src/
-│ ├── config/
-│ ├── models/
-│ ├── middlewares/
-│ ├── controllers/
-│ ├── services/
-│ ├── routes/
-│ ├── utils/
-│ └── app.js
-├── migrations/
-├── seeders/
-├── package.json
-├── server.js
-└── README.md
+```diff
++ Deployed Exam Ready: 100+ papers uploaded, OCR + AI working in production
++ Built Gym Remo: Complete fitness analytics with 7 muscle group tracking
++ Shipped Quote Builder: Full B2B workflow with PDF generation ready
++ Zero to deployed in weeks, not months
+```
 
 ---
 
-# 📱 **Grievance Redressal System (Flutter + Supabase + Gemini AI)**  
-Full-stack mobile app designed for citizen grievance management.
-
-### 🔥 Features  
-- Role-based login (Citizen & Officer)  
-- AI-powered spam detection using Gemini API  
-- Real-time status tracking with push notifications  
-- Offline-first architecture using Supabase  
-- Modern UI with BLoC state management  
-
-**Tech Stack:** `Flutter` `Dart` `Supabase` `Gemini API` `BLoC`
-
----
-
-# 📚 **Exam Ready App (Flutter + Firebase)**  
-A production-ready exam preparation platform built for scale.
-
-### 🚀 Key Features  
-- Centralized Firebase service architecture  
-- Responsive layout for mobile, tablet & desktop  
-- Hardware-accelerated animations  
-- Skeleton loading, shimmer effects, smooth transitions  
-- Full accessibility support  
-- Comprehensive test coverage  
-
-### 📌 Achievements  
-- Reduced memory usage by **30%**  
-- Zero layout overflow issues  
-- Improved code quality metrics by **7%**
-
-**Tech Stack:** `Flutter` `Dart` `Firebase`
-
----
-
-# 📘 **Library Management System (Python + MySQL)**  
-A CLI-based library system that supports:
-
-### Features  
-- Book catalog management  
-- Borrower tracking  
-- Automated fine calculation  
-- Advanced search and filtering  
-
-**Tech Stack:** `Python` `MySQL`
-
----
-
-# 🌾 **Node.js Farm Project (Pure Node.js Web Server)**  
-
-A demonstration of low-level Node.js server fundamentals.
-
-### Features  
-- Dynamic template rendering  
-- Pure Node.js (no frameworks)  
-- JSON-based data management  
-- Routing, templating, and server logic implemented manually  
-
-**Tech Stack:** `Node.js` `HTML` `JSON`
-
----
-
-## 📈 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vkchowdary05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vkchowdary05&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vkchowdary05&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vkchowdary05&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD93D&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vkchowdary05&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9)
+
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 🎓 Philosophy
+
+> **"Ship fast, iterate faster, listen to users always."**
+
+I believe the best way to learn is to **build real products** that **real people use**. Every project here solves an actual problem I've encountered or seen others face.
+
+- ❌ No tutorial hell — only production code
+- ❌ No "hello world" demos — only deployed apps
+- ❌ No copy-paste — everything built with understanding
+- ✅ User-focused features
+- ✅ Clean, maintainable code
+- ✅ Production-grade security
+
+---
+
+## 📫 Let's Talk
+
+I'm looking for **internship opportunities** where I can:
+- Build features that **millions will use**
+- Work with **modern tech stacks**
+- **Ship code daily**, not weekly
+- Learn from **experienced engineers**
+- Contribute to **real product growth**
+
+**Available immediately** • **Open to relocation** • **Startup mindset**
+
+📧 **Email**: [papasanikarthik@gmail.com](mailto:papasanikarthik@gmail.com)  
+💼 **Portfolio**: [kartheek-portfolio.vercel.app](https://kartheek-portfolio.vercel.app/)  
+🔗 **LinkedIn**: [linkedin.com/in/kartheek-chowdhary](https://www.linkedin.com/in/kartheek-chowdhary-914b6923b/)
+
+---
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-papasanikarthik@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:papasanikarthik@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartheek-chowdhary-914b6923b)
+### 🚀 Currently Working On
+**Exam Ready Mobile App v2.0** • Adding real-time collaboration features
+
+**⭐ If you like what you see, consider starring the repos!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Vkchowdary05&color=blueviolet&style=for-the-badge)
 
 </div>
 
+---
+
+## 🗂️ Featured Repositories
+
+### 🔥 Most Impactful
+
+1. **[Exam Ready Web](https://github.com/yourusername/exam-ready)** — Full-stack AI exam prep platform
+2. **[Gym Remo](https://github.com/yourusername/gym-remo)** — Intelligent fitness tracking
+3. **[Exam Ready Mobile](https://github.com/Vkchowdary05/exam-ready-13)** — Flutter app with ML Kit OCR
+4. **[Quote Builder](https://github.com/Vkchowdary05/quote-builder-backend)** — B2B quotation system
+
+### 📚 Learning & Experimentation
+
+- **Three.js Landing Pages** — 3D web experiences
+- **AI Prompt Engineering** — Groq LLM integration patterns
+- **State Management** — Zustand, BLoC, Context patterns
+- **Auth Systems** — JWT, Firebase, custom implementations
+
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+**💡 Tip for Recruiters**: Check the **live demos** above — they're fully functional, not mock-ups!
+
+**Built with ❤️ and lots of ☕ by Kartheek**
+
 </div>
